@@ -19,12 +19,13 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About/', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'About', link: '/about'}
   - {name: 'Curriculum', link: '/cv.html'}
+  - {name: 'Contact', link: '/contact'}
+  
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Ciência da Computação, Jack All Trades, Desenvolvedor de araque, Amante de Gnu's, analista de sistemas nas horas vagas...
 
 hero_img: posts/forest.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
