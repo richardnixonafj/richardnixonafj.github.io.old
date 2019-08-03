@@ -13,9 +13,7 @@ tags:
   - tecnologia
   - Security
   - Segurança
-
 featured-img: Android_Malware
-last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
 ![something](https://i.imgur.com/hy3paIE.jpg)
