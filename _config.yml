@@ -19,7 +19,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Curriculum', link: '/cv.html'}
+  - {name: 'Curriculum', link: '/cv.md'}
   - {name: 'Contact', link: '/contact'}
   
 
