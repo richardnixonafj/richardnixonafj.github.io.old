@@ -3,6 +3,7 @@ layout: post
 title: "Ransomware Android usa SMS para infectar "
 categories:
   - Security
+  - Malware
 tags:
   -- Android
   - Ransomware 
