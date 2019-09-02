@@ -13,4 +13,4 @@ No ano seguinte em 2017 fui convidado para trabalhar com analista de sistema na 
 
 Sou entusiasta de software livre e libertarianismo, fascinado por cripto tecnologias e acionista do mercado financeiro.
 
-Nas horas vagas palestro sobre software livre contribuo e mantendo projetos de código aberto no GitHub, e tento escrever posts técnicos sobre diversos assuntos de tecnologia na minha [pagina pessoal](https://richardnixon.dev/).
+Nas horas vagas palestro sobre software livre contribuo e mantenho projetos de código aberto no GitHub, e tento escrever posts técnicos sobre diversos assuntos de tecnologia na minha [pagina pessoal](https://richardnixon.dev/).
