@@ -21,7 +21,7 @@ last_modified_at: 2019-09-02T13:00:52-05:00
 
 Uma nova família de [ransomware](https://www.kaspersky.com.br/resource-center/definitions/what-is-ransomware) criada para dispositivos Android vem se espalhando fazendo vítimas enviando mensagens de texto (SMS) contendo links maliciosos para toda a lista de contatos encontrada em alvos já infectados.
 
-O malware apelidado de Android/Filecoder.C (FileCoder) pela equipe de pesquisa da [ESET](https://www.eset.com/br/), que descobriu que código malisioso está em busca de dispositivos que executam o Android 5.1 ou posterior.
+O malware apelidado de Android/Filecoder.C (FileCoder) pela equipe de pesquisa da [ESET](https://www.welivesecurity.com/br/2019/08/02/novo-ransomware-para-android-e-propagado-via-mensagens-sms/), que descobriu que código malisioso está em busca de dispositivos que executam o Android 5.1 ou posterior.
 
 "Devido à segmentação e falhas estreitas na execução da campanha e na implementação de sua criptografia, o impacto desse novo ransomware é limitado", descobriram os pesquisadores da ESET.
 
