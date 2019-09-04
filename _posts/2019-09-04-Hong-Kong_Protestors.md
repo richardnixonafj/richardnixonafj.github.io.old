@@ -24,8 +24,11 @@ Como você se comunica quando o governo censura a internet? Com uma [rede de tra
 
 E isso levou a um rápido crescimento do aplicativo Bridgefy: os downloads aumentaram quase 4.000% nos últimos 60 dias, segundo estimativas da Apptopia (Apptopia é uma empresa de métricas de aplicativos).
 
-<img src="https://specials-images.forbesimg.com/imageserve/5d6d4d96673aa300083cc663/960x0.jpg" alt="Apptopia" />
-                           Download do Apptopia e estimativas médias diárias dos usuários
+
+
+<center><img src="https://specials-images.forbesimg.com/imageserve/5d6d4d96673aa300083cc663/960x0.jpg" alt="Apptopia" /></center>
+<center>Download do Apptopia e estimativas médias diárias dos usuários.</center>
+
 
 
 O aplicativo pode conectar pessoas via Bluetooth em uma cidade inteira, graças a uma [rede em malha](https://pt.wikipedia.org/wiki/Redes_Mesh). É mais rápido conversar com pessoas próximas, algo em torno de cem metros, mas você também pode conversar com pessoas que estão mais distantes. Suas mensagens simplesmente “pulam” nos telefones de outros usuários do aplicativo Bridgefy até encontrarem o destinatário pretendido.
@@ -50,8 +53,11 @@ O jornalista da Forbes John Koetsier pediu mais informações ao cofundador e CE
 
 Vimos mais de **60.000** instalações de aplicativos nos últimos sete dias, a maioria delas de Hong Kong. As pessoas estão usando para se organizar e se manter seguro, sem precisar depender de uma conexão com a Internet. 
 
-<img src="https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/imageserve/5d6d4fbafead28000892d689/960x0.jpg?fit=scale" alt="John Koetsier" />
-                          Capturas de tela do aplicativo iOS de Bridgefy
+
+
+<center><img src="https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/imageserve/5d6d4fbafead28000892d689/960x0.jpg?fit=scale" alt="John Koetsier" /></center>
+<center>Capturas de tela do aplicativo iOS de Bridgefy</center>
+
 
 
 **Koetsier**: Mais alguma coisa?
