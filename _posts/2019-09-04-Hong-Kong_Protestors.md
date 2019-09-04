@@ -2,7 +2,7 @@
 layout: post
 title: "Manifestantes de Hong Kong que utilizam aplicativos de mensageria irrastreável aumenta 3685%"
 categories:
-  - Privacidade
+  - Privacy
 
 tags:
   -- Privacidade
@@ -14,7 +14,7 @@ tags:
   - Security
   - privacy
 featured-img: Hong-Kong-Protestors
-last_modified_at: 2019-09-04T23:00:52-05:00
+last_modified_at: 2019-09-04T10:08:00-05:00
 ---
 
 
@@ -24,11 +24,8 @@ Como você se comunica quando o governo censura a internet? Com uma [rede de tra
 
 E isso levou a um rápido crescimento do aplicativo Bridgefy: os downloads aumentaram quase 4.000% nos últimos 60 dias, segundo estimativas da Apptopia (Apptopia é uma empresa de métricas de aplicativos).
 
-
-
 <center><img src="https://specials-images.forbesimg.com/imageserve/5d6d4d96673aa300083cc663/960x0.jpg" alt="Apptopia" /></center>
 <center>Download do Apptopia e estimativas médias diárias dos usuários.</center>
-
 
 
 O aplicativo pode conectar pessoas via Bluetooth em uma cidade inteira, graças a uma [rede em malha](https://pt.wikipedia.org/wiki/Redes_Mesh). É mais rápido conversar com pessoas próximas, algo em torno de cem metros, mas você também pode conversar com pessoas que estão mais distantes. Suas mensagens simplesmente “pulam” nos telefones de outros usuários do aplicativo Bridgefy até encontrarem o destinatário pretendido.
@@ -53,11 +50,8 @@ O jornalista da Forbes John Koetsier pediu mais informações ao cofundador e CE
 
 Vimos mais de **60.000** instalações de aplicativos nos últimos sete dias, a maioria delas de Hong Kong. As pessoas estão usando para se organizar e se manter seguro, sem precisar depender de uma conexão com a Internet. 
 
-
-
 <center><img src="https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/imageserve/5d6d4fbafead28000892d689/960x0.jpg?fit=scale" alt="John Koetsier" /></center>
 <center>Capturas de tela do aplicativo iOS de Bridgefy</center>
-
 
 
 **Koetsier**: Mais alguma coisa?
@@ -69,13 +63,13 @@ Vimos mais de **60.000** instalações de aplicativos nos últimos sete dias, a 
 
 ###### A minha pitada de palpite
 
-O recurso de rede mesh (ou malha), não é algo novo, na guerra do golfo os nós eram os veículos de combate, que se comunicavam e permitiam que informações trafegassem através de longas distâncias. O proprio roteador aí da sua casa tem o modo [ad-hoc](https://pt.wikipedia.org/wiki/Redes_ad_hoc), que permite criar redes descentralizadas.
+O recurso de rede mesh (ou malha), não é algo novo, na guerra do golfo os nós eram os veículos de combate que se comunicavam e permitiam que informações trafegassem através de longas distâncias. O proprio roteador aí da sua casa tem o modo [ad-hoc](https://pt.wikipedia.org/wiki/Redes_ad_hoc), que permite criar redes descentralizadas.
 
-Infelizmente não acredito na segurança de softwares com [código fechado](https://www.linkoficial.com.br/qual-a-diferenca-entre-software-de-codigo-aberto-e-software-de-codigo-fechado/amp/) (mesmo que isso seja segredo comercial), principalmente em países que tem uma política de censura dos seus cidadãos. Ao meu ver é uma solução não muito diferente das disponiveis no mercado. (WhatsApp, Telegram e etc..). Afinal nunca saberemos o quão di$po$ta empresa estará a repassar as chaves de criptografia para o governo.
+Infelizmente não acredito na segurança de softwares com [código fechado](https://www.linkoficial.com.br/qual-a-diferenca-entre-software-de-codigo-aberto-e-software-de-codigo-fechado/amp/) (mesmo que isso seja segredo comercial), principalmente em países que tem uma política de censura dos seus cidadãos. Ao meu ver é uma solução não muito diferente das disponiveis no mercado. (*WhatsApp, Telegram e etc..*). Afinal nunca saberemos o quão **di$po$ta** a empresa estará em repassar as chaves de criptografia para o governo.
 
 A ideia é interessante, porém existem opções semelhantes de codigo aberto, como o [serval mesh project](http://www.servalproject.org/).
 
-E por fim acredito que a comunicação sigilosa é um direito do mínimo existencial.
+E por fim acredito que a comunicação sigilosa é um direito do mínimo existencial, privacidade (de comunicação, inclusive) é DIREITO HUMANO fundamental, universal.
 
 
 ---
