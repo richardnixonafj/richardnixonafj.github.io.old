@@ -13,7 +13,7 @@ tags:
   - tecnologia
   - Security
   - Segurança
-featured-img: android-malware
+featured-img: Hong-Kong-Protestors
 last_modified_at: 2019-09-02T13:00:52-05:00
 ---
 
