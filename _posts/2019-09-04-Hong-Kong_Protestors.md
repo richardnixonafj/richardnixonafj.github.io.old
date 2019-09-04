@@ -59,13 +59,15 @@ Capturas de tela do aplicativo iOS de Bridgefy
 **Rios**: sempre que há um furacão ou terremoto no mundo, existem picos nos downloads de aplicativos. É importante dizer que nossa tecnologia principal também está disponível para os desenvolvedores, para que eles possam integrá-la em seus próprios aplicativos e fazê-los funcionar offline. O licenciamos com base na quantidade de usuários off-line e atualmente estamos trabalhando para que um dia possamos usar aplicativos como WeChat, Tinder, Uber e Whatsapp sem Internet. 
 
 
+
+
 ###### A minha pitada de palpite
 
 O recurso de rede mesh (ou malha), não é algo novo, na guerra do golfo os nós eram os veículos de combate, que se comunicavam e permitiam que informações trafegassem através de longas distâncias. O proprio roteador aí da sua casa tem o modo [ad-hoc](https://pt.wikipedia.org/wiki/Redes_ad_hoc), que permite criar redes descentralizadas.
 
 Infelizmente não acredito na segurança de softwares com [código fechado](https://www.linkoficial.com.br/qual-a-diferenca-entre-software-de-codigo-aberto-e-software-de-codigo-fechado/amp/) (mesmo que isso seja segredo comercial), principalmente em países que tem uma política de censura dos seus cidadãos. Ao meu ver é uma solução não muito diferente das disponiveis no mercado. (WhatsApp, Telegram e etc..). Afinal nunca saberemos o quão di$po$ta empresa estará a repassar as chaves de criptografia para o governo.
 
-A ideia é interessante, porém existem opções semelhantes de codigo aberto, como o [serval mesh project](http://www.servalproject.org/)
+A ideia é interessante, porém existem opções semelhantes de codigo aberto, como o [serval mesh project](http://www.servalproject.org/).
 
 E por fim acredito que a comunicação sigilosa é um direito do mínimo existencial.
 
