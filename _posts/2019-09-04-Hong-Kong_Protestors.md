@@ -1,97 +1,71 @@
 ---
 layout: post
-title: "Ransomware Android usa SMS para infectar "
+title: "Manifestantes de Hong Kong que utilizam aplicativos de mensageria irrastreável aumenta 3685%"
 categories:
-  - Security
-  - Malware
+  - Privacidade
+
 tags:
-  -- Android
-  - Ransomware 
+  -- Privacidade
+  - Hong Kong
   - Android
-  - Sms
+  - irrastreável
   - technology
   - tecnologia
   - Security
-  - Segurança
+  - privacy
 featured-img: Hong-Kong-Protestors
-last_modified_at: 2019-09-02T13:00:52-05:00
+last_modified_at: 2019-09-04T23:00:52-05:00
 ---
 
 
+Como você se comunica quando o governo censura a internet? Com uma [rede de transmissão em malha ponto a ponto que não usa a Internet](https://pt.wikipedia.org/wiki/Redes_Mesh).
 
-Uma nova família de [ransomware](https://www.kaspersky.com.br/resource-center/definitions/what-is-ransomware) criada para dispositivos Android vem se espalhando fazendo vítimas enviando mensagens de texto (SMS) contendo links maliciosos para toda a lista de contatos encontrada em alvos já infectados.
+É exatamente o que os manifestantes pró-democracia de Hong Kong estão fazendo agora, graças ao aplicativo de mensagens baseado em Bluetooth da [Bridgefy](https://www.bridgefy.me/), startup de San Fransisco. Os manifestantes podem se comunicar entre si e com qualquer pessoa de forma descentralizada e anônima.
 
-O malware apelidado de Android/Filecoder.C (FileCoder) pela equipe de pesquisa da [ESET](https://www.welivesecurity.com/br/2019/08/02/novo-ransomware-para-android-e-propagado-via-mensagens-sms/), que descobriu que código malisioso está em busca de dispositivos que executam o Android 5.1 ou posterior.
+E isso levou a um rápido crescimento do aplicativo Bridgefy: os downloads aumentaram quase 4.000% nos últimos 60 dias, segundo estimativas da Apptopia (Apptopia é uma empresa de métricas de aplicativos).
 
-"Devido à segmentação e falhas estreitas na execução da campanha e na implementação de sua criptografia, o impacto desse novo ransomware é limitado", descobriram os pesquisadores da ESET.
+<img src="https://specials-images.forbesimg.com/imageserve/5d6d4d96673aa300083cc663/960x0.jpg" alt="Apptopia" />
 
-"Depois que o ransomware envia esse lote de SMS maliciosos, ele criptografa a maioria dos arquivos de usuário no dispositivo e solicita um resgate. Devido à criptografia falha, é possível descriptografar os arquivos afetados sem a ajuda do invasor", acrescenta a ESET.
+Download do Apptopia e estimativas médias diárias dos usuários
 
-Apesar disso, se os desenvolvedores do ransomware conseguirem consertar seu "produto", muitos usuários do Android poderão ser expostos a uma variedade de malware muito perigosa e potencialmente altamente destrutiva.
+O aplicativo pode conectar pessoas via Bluetooth em uma cidade inteira, graças a uma [rede em malha](https://pt.wikipedia.org/wiki/Redes_Mesh). É mais rápido conversar com pessoas próximas, algo em torno de cem metros, mas você também pode conversar com pessoas que estão mais distantes. Suas mensagens simplesmente “pulam” nos telefones de outros usuários do aplicativo Bridgefy até encontrarem o destinatário pretendido.
 
-### Vetor de infecção por Ransomware SMS
+Embora seja possível conversar em particular com contatos, também pode transmitir para qualquer pessoa dentro do alcance, mesmo que não seja um contato.
 
-O FileCoder foi visto pela primeira vez pela ESET durante uma campanha desde 12 de julho, com os atacantes distribuindo sua carga maliciosa por meio de postagens feitas no [Reddit]( https://www.reddit.com/) e na comunidade de desenvolvimento de software móvel [XDA Developers](https://www.xda-developers.com/).
+Esse é claramente um cenário ideal para manifestantes que estão tentando alcançar pessoas, mas não podem usar mensagens de texto SMS tradicionais, e-mail ou o aplicativo chinês WeChat que foi implantando após a [censura do WhatsApp](https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html?mcubz=1). Afinal todos eles são monitorados pelo estado.
 
-Enquanto o Forum do XDA removeu as postagens maliciosas após ser notificado, os tópicos do Reddit ainda estavam em andamento no momento em que o pesquisador de malware da ESET, [Lukas Stefanko](https://twitter.com/LukasStefanko), publicou a análise de malware do FileCoder.
+O jornalista da Forbes John Koetsier pediu mais informações ao cofundador e CEO da Bridgefy, Jorge Rios.
 
-Os desenvolvedores do FileCoder usam dois servidores para distribuir o ransomware, com cargas maliciosas sendo vinculadas a partir das mensagens de texto maliciosas enviadas para toda a lista de contatos das vítimas e das postagens no fórum do Reddit e do XDA.
+**Koetsier:** Conte-me sobre o aplicativo ... para que serve, por que você o criou e por que a maioria das pessoas o usa?
 
-#### SMS malicioso
+**Rios**: Bridgefy é um aplicativo de mensagens que funciona com ou sem Internet. Ele é baseado no Bluetooth e o construímos porque sabemos que a falta de comunicação pode ser vital em muitos lugares e situações. A maioria das pessoas faz o download antes de assistir a um grande evento esportivo de música, mas atualmente estamos tendo grandes picos de downloads em Hong Kong devido aos protestos.
 
-As amostras de ransomware também são vinculadas com a ajuda de códigos QR, o que tornar mais rápido para os usuários móveis obterem a cópia do aplicativo malicioso(APK) em seus dispositivos e instalá-los.
+**Koetsier:** Ouvi dizer que está sendo usado em Hong Kong pelos manifestantes. Diga-me por qual finalidade eles o estão usando e qual o pico observado em downloads / registros / uso?
 
-Como isca para convencer as vítimas em potencial a instalar os aplicativos Android infectados em seus dispositivos, os operadores do FileCoder diriam que o aplicativo "supostamente usa as fotos da vítima em potencial".
+**Rios:** as pessoas estão fazendo o download por dois motivos:
 
-No entanto, as postagens no fórum do Reddit e do XDA "promovem" o aplicativo mal-intencionado como um jogo online de simulador de sexo gratuito, o que também deve tornar atrativo o suficiente para que os possíveis alvos, sejam enganados a baixar e instalar o aplicativo ransomware em seus dispositivos.
+1) Como o acesso à Internet está começando a ser limitado pelas autoridades.
 
-Como o [BleepingComputer](https://www.bleepingcomputer.com/) encontrou ao analisar uma amostra do FileCoder, ao ser instalado no dispositivo Android da vítima, o malware solicitará as seguintes permissões:
+2) Porque é uma maneira segura de as pessoas se comunicarem, havendo muito pouco risco de as mensagens serem lidas por olhos indesejados.
 
-<a name="headers"/>
+Vimos mais de **60.000** instalações de aplicativos nos últimos sete dias, a maioria delas de Hong Kong. As pessoas estão usando para se organizar e se manter seguro, sem precisar depender de uma conexão com a Internet. 
 
-```
-android.permission.SET_WALLPAPER  (trocar o papel de parede do aparelho)
-android.permission.WRITE_EXTERNAL_STORAGE (gravar dados em dispositivos de armazenamento externo)
-android.permission.READ_EXTERNAL_STORAGE (Ler dados de dispositivos de armazenamento externo)
-android.permission.READ_CONTACTS (ler os contato do telefone)
-android.permission.RECEIVE_BOOT_COMPLETED (permissão que pode ser usada para inicializar o ransoware ao iniciar o telefone)
-android.permission.SEND_SMS (Enviar SMS)
-android.permission.INTERNET (acessar a internet)
-```
+<img src="https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/imageserve/5d6d4fbafead28000892d689/960x0.jpg?fit=scale" alt="John Koetsier" />
 
-"Para maximizar seu alcance, o ransomware possui as 42 versões de idioma (exatamente ele é poliglota) do modelo de mensagem [...]. Antes de enviar as mensagens, ele escolhe a versão que se ajusta à configuração de idioma do dispositivo da vítima. Para personalizar o texto malicioso, o malware precede o contato do contato e continua o ciclo de envio de envio de sms.
+Capturas de tela do aplicativo iOS de Bridgefy
 
-O FileCoder se espalhará para a lista de contatos da vítima via SMS antes de começar a criptografar arquivos em todas as pastas no armazenamento do dispositivo que tiver acesso, acrescentando a extensão .seven aos nomes de arquivos originais - os arquivos do sistema serão ignorados.
+**Koetsier**: Mais alguma coisa?
 
-"O ransomware também deixa os arquivos não criptografa se a extensão for" .zip "ou" .rar "e o tamanho do arquivo for superior a 51.200 KB / 50 MB e os arquivos" .jpeg "," .jpg "e" .png "com um tamanho de arquivo menor que 150 KB ", conforme dito pela ESET.
+**Rios**: sempre que há um furacão ou terremoto no mundo, existem picos nos downloads de aplicativos. É importante dizer que nossa tecnologia principal também está disponível para os desenvolvedores, para que eles possam integrá-la em seus próprios aplicativos e fazê-los funcionar offline. O licenciamos com base na quantidade de usuários off-line e atualmente estamos trabalhando para que um dia possamos usar aplicativos como WeChat, Tinder, Uber e Whatsapp sem Internet. 
 
-O malware criptografa uma mistura estranha de tipos de arquivos específicos do Android, bem como uma combinação estranha de tipos de documentos não relacionados, com a equipe de pesquisa da ESET concluindo que "a lista foi copiada do notório WannaCryptor, também conhecido como WannaCry ransomware". (É uma especie de fork/cópia mal-feita do famoso [WannaCry](https://www.avast.com/pt-br/c-wannacry)).
 
-#### Recuperando novos domínios de servidor C2 e endereços BTC
-
-##### Servidores FileCoder C2 ainda ativos
+###### A minha pitada de palpite
 
 Depois que todos os arquivos são bloqueados pelo malware, ele exibe a nota de resgate, detalhando o número de arquivos criptografados e em quanto tempo que a vítima precisa pagar pelo custo da chave de descriptografia - os valores do resgate variam entre US $ 94 e US $ 188. 
 
 Enquanto a nota de resgate diz que os dados serão perdidos se o resgate não for pago dentro de três dias, "não há nada no código fonte do ransomware para apoiar a alegação de que os dados afetados serão perdidos após 72 horas" (ou seja é um blefe).
 
-##### Nota de resgate do FileCoder
-
-Ao contrário da maioria das outras gerações de ransomware para Android, o FileCoder não bloqueia as telas das vítimas e permite que continuem a usar seus dispositivos, dependendo apenas do fato de que seus alvos desejam que seus arquivos sejam descriptografados o mais rápido possível.
-
-O FileCoder criptografa arquivos usando as novas chaves [AES](https://pt.wikipedia.org/wiki/Advanced_Encryption_Standard) para cada um dos arquivos bloqueados, empregando um par de chaves públicas e privadas, sendo a última criptografada com a ajuda do [algoritmo RSA](https://pt.wikipedia.org/wiki/RSA_(sistema_criptogr%C3%A1fico)).
-
-No entanto, como os desenvolvedores do ransomware codificaram o valor usado para criptografar a chave privada no código do malware, as vítimas podem descriptografar seus dados sem pagar o resgate.
-
-"Tudo o que é necessário é o UserID [..] fornecido pelo ransomware e o arquivo APK do ransomware, caso seus autores alterem o valor da chave codificada", descobriram os pesquisadores da ESET.
-
-No momento em que essa pagina foi publicada, os servidores usados pelos autores do FileCoder ainda estavam online, com a página de verificação de pagamento de resgate também disponível através de um dos arquivos hospedados nos servidores C2 do malware.
-
-A página de verificação de pagamento também fornece às vítimas um 'email de suporte' projetado para permitir que elas solicitem ajuda em caso de problemas: "Se você tiver alguma dúvida, entre em contato conosco. Nosso endereço de email: h3athledger@yandex.ru".
-
-Mais detalhes sobre o funcionamento interno do ransomware Android / Filecoder.C, juntamente com uma lista de indicadores de compromisso (IOCs), incluindo hashes de amostra de malware, o endereço Bitcoin usado na campanha, estão disponíveis no final da análise de malware do [Filecoder do Stefanko](https://www.welivesecurity.com/2019/07/29/android-ransomware-back/).
-
 
 ---
 
-Fonte: [bleepingcomputer](https://www.bleepingcomputer.com/news/security/new-android-ransomware-uses-sms-spam-to-infect-its-victims/)
+Fonte: [Forbes](https://www.forbes.com/sites/johnkoetsier/2019/09/02/hong-kong-protestors-using-mesh-messaging-app-china-cant-block-usage-up-3685/amp/)
