@@ -61,9 +61,13 @@ Capturas de tela do aplicativo iOS de Bridgefy
 
 ###### A minha pitada de palpite
 
-Depois que todos os arquivos são bloqueados pelo malware, ele exibe a nota de resgate, detalhando o número de arquivos criptografados e em quanto tempo que a vítima precisa pagar pelo custo da chave de descriptografia - os valores do resgate variam entre US $ 94 e US $ 188. 
+O recurso de rede mesh (ou malha), não é algo novo, na guerra do golfo os nós eram os veículos de combate, que se comunicavam e permitiam que informações trafegassem através de longas distâncias. O proprio roteador aí da sua casa tem o modo [ad-hoc](https://pt.wikipedia.org/wiki/Redes_ad_hoc), que permite criar redes descentralizadas.
 
-Enquanto a nota de resgate diz que os dados serão perdidos se o resgate não for pago dentro de três dias, "não há nada no código fonte do ransomware para apoiar a alegação de que os dados afetados serão perdidos após 72 horas" (ou seja é um blefe).
+Infelizmente não acredito na segurança de softwares com [código fechado](https://www.linkoficial.com.br/qual-a-diferenca-entre-software-de-codigo-aberto-e-software-de-codigo-fechado/amp/) (mesmo que isso seja segredo comercial), principalmente em países que tem uma política de censura dos seus cidadãos. Ao meu ver é uma solução não muito diferente das disponiveis no mercado. (WhatsApp, Telegram e etc..). Afinal nunca saberemos o quão di$po$ta empresa estará a repassar as chaves de criptografia para o governo.
+
+A ideia é interessante, porém existem opções semelhantes de codigo aberto, como o [serval mesh project](http://www.servalproject.org/)
+
+E por fim acredito que a comunicação sigilosa é um direito do mínimo existencial.
 
 
 ---
