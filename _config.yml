@@ -19,7 +19,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Curriculum', link: 'cv_under_construction.pdf'}
+  - {name: 'Curriculum', link: 'Richard Nixon- CV (1).pdf'}
   - {name: 'Contact', link: '/contact'}
   
 
