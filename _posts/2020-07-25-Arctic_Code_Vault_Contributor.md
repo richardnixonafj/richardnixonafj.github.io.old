@@ -16,7 +16,7 @@ tags:
   - Badge
 
 featured-img: github_arctic_archive
-last_modified_at: 2020-07-25T10:08:00-05:00
+last_modified_at: 2020-07-26T01:38:00-05:00
 ---
 
 
@@ -66,7 +66,9 @@ Devido à situação global de pandemia, o GitHub precisou ajustar alguns de seu
 &nbsp;
 
 
-O transporte dos dados do repositório começou nas instalações do Piql em Drammen, na Noruega. Todos os rolos do piqlFilm foram enviados para o aeroporto de Oslo e enviados para Longyearbyen, uma pequena cidade de Svalbard usando um avião de passageiros. Em seguida, as caixas de dados foram transferidas para a mina de carvão desativada situada na montanha em seguida, para uma câmara dentro de centenas de metros de [permafrost](https://pt.wikipedia.org/wiki/Pergelissolo#:~:text=O%20permafrost%20ou%20pergelissolo%20(em,seja%3A%20solo%20permanentemente%20congelado).) e armazenadas esses dados de repositórios de código aberto ativos.
+O transporte dos dados do repositório começou nas instalações do Piql em Drammen, na Noruega. Todos os rolos do piqlFilm foram enviados para o aeroporto de Oslo e enviados para Longyearbyen, uma pequena cidade de Svalbard usando um avião de passageiros.
+
+ Em seguida, as caixas de dados foram transferidas para uma mina de carvão desativada situada na montanha em seguida, para uma câmara dentro de centenas de metros de [permafrost](https://pt.wikipedia.org/wiki/Pergelissolo#:~:text=O%20permafrost%20ou%20pergelissolo%20(em,seja%3A%20solo%20permanentemente%20congelado).) e armazenadas em repositórios de dados de código aberto.
 
 &nbsp;
 
@@ -95,12 +97,15 @@ O transporte dos dados do repositório começou nas instalações do Piql em Dra
 &nbsp;
 
 
-Agora os repositórios de código aberto (opensource) estão armazenados no Arctic Code Vault. Portanto, para identificar os contribuidores dos repositórios, eles receberam o selo do Arctic Code Vault na seção de destaques do perfil do GitHub.
+Agora os repositórios de código aberto estão armazenados no Arctic Code Vault. 
+
+Para identificar os contribuidores dos repositórios, eles receberam o selo do Arctic Code Vault na seção de destaques do perfil do GitHub.
 
 &nbsp;
 
 <center><img src="https://raw.githubusercontent.com/richardnixonafj/richardnixonafj.github.io/master/assets/img/posts/my_git.png" alt="Imagem perfil github com seta indicando o Arctic Code Vault Contributor"/></center>
 
+&nbsp;
 
 ## Espero que agora você tenha uma idéia sobre o Arctic Code Vault do Github. 
 
