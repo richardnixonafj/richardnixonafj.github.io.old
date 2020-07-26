@@ -56,8 +56,6 @@ Grandes repositórios já estão abaixo de zero, como o Linux, Python, Openssl e
 
 &nbsp;
 
-&nbsp;
-
 
 Devido à situação global de pandemia, o GitHub precisou ajustar alguns de seus planos de implantação inicial. De qualquer forma, em 8 de julho de 2020, o GitHub conseguiu depositar o Cofre do Código do Ártico em Svalbard (Svalbard é um arquipélago norueguês no Oceano Ártico). 
 
@@ -67,35 +65,41 @@ Devido à situação global de pandemia, o GitHub precisou ajustar alguns de seu
 
 &nbsp;
 
-&nbsp;
 
 O transporte dos dados do repositório começou nas instalações do Piql em Drammen, na Noruega. Todos os rolos do piqlFilm foram enviados para o aeroporto de Oslo e enviados para Longyearbyen, uma pequena cidade de Svalbard usando um avião de passageiros. Em seguida, as caixas de dados foram transferidas para a mina de carvão desativada situada na montanha em seguida, para uma câmara dentro de centenas de metros de [permafrost](https://pt.wikipedia.org/wiki/Pergelissolo#:~:text=O%20permafrost%20ou%20pergelissolo%20(em,seja%3A%20solo%20permanentemente%20congelado).) e armazenadas esses dados de repositórios de código aberto ativos.
 
 &nbsp;
 
 
-<center><img src="https://news.thewindowsclub.com/wp-content/uploads/2020/07/GitHub-Arctic-Code-Vault-1.jpg" alt="Imagem Caixas empilhadas com logo do Github" /></center>
+<center><img src="https://news.thewindowsclub.com/wp-content/uploads/2020/07/GitHub-Arctic-Code-Vault-1.jpg" alt="Imagem Caixas empilhadas com logo do Github"/></center>
 
 
 &nbsp;
 
-<center><img src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/c3zwogqcwdudvdnjq2sh.jpg"alt="Imagem Caixas esteira de transporte aviao" /></center>
+<center><img src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/c3zwogqcwdudvdnjq2sh.jpg" alt="Imagem Caixas esteira de transporte aviao"/></center>
 
 &nbsp;
 
-<center><img src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/uel7ugi7rmpkffee34yd.jpg"alt="Imagem homem em quadriciculo carregando caixas do github" /></center>
+<center><img src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/uel7ugi7rmpkffee34yd.jpg" alt="Imagem homem em quadriciculo carregando caixas do github"/></center>
 
 &nbsp;
 
-<center><img src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/gpcjm0mtaembakdbj52r.jpg"alt="Imagem Container de armazenamento github" /></center>
+<center><img src="https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_1600/gpcjm0mtaembakdbj52r.jpg" alt="Imagem Container de armazenamento github"/></center>
 
 &nbsp;
+
+
+[![Video oficial do Github](https://img.youtube.com/vi/fzI9FNjXQ0o/0.jpg)](https://www.youtube.com/watch?v=fzI9FNjXQ0o)
+
+
+&nbsp;
+
 
 Agora os repositórios de código aberto (opensource) estão armazenados no Arctic Code Vault. Portanto, para identificar os contribuidores dos repositórios, eles receberam o selo do Arctic Code Vault na seção de destaques do perfil do GitHub.
 
 &nbsp;
 
-<center><img src="https://raw.githubusercontent.com/richardnixonafj/richardnixonafj.github.io/master/assets/img/posts/my_git.png"alt="Imagem perfil github com seta indicando o Arctic Code Vault Contributor" /></center>
+<center><img src="https://raw.githubusercontent.com/richardnixonafj/richardnixonafj.github.io/master/assets/img/posts/my_git.png" alt="Imagem perfil github com seta indicando o Arctic Code Vault Contributor"/></center>
 
 
 ## Espero que agora você tenha uma idéia sobre o Arctic Code Vault do Github. 
@@ -103,11 +107,5 @@ Agora os repositórios de código aberto (opensource) estão armazenados no Arct
 ### Obrigado pela leitura!
 
 &nbsp;
-
-
-
-[![Video oficial do Github](https://img.youtube.com/vi/fzI9FNjXQ0o/0.jpg)](https://www.youtube.com/watch?v=fzI9FNjXQ0o)
-
-<center>Arctic Code Vault Video</center>
 
 Fonte: [Github](https://archiveprogram.github.com/)
