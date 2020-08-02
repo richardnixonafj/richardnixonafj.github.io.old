@@ -1,0 +1,70 @@
+# SITE CONFIGURATION
+title: Richard Nixon # your site title
+author: richardnixonafj # You :P
+description: > # Meta description of Homepage
+  Este é um blog de um ciêntista da computação apaixonado por tecnologia, desenvolvimento de software, robótica, python,
+  Django, Infosec, segurança da informação. Normalmente faço publicações de assuntos técnicos. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://richardnixon.dev" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO PLUGIN
+social:
+  name: richardnixonafj
+  links:
+    - https://twitter.com/richardnixonafj
+    - https://www.linkedin.com/in/richardazevedo
+    - https://github.com/richardnixonafj
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Curriculum', link: 'Richard Nixon- CV (1).pdf'}
+  - {name: 'Contact', link: '/contact'}
+  
+
+tagline: >
+  Ciência da Computação, Jack All Trades, Desenvolvedor de araque, Amante de Gnu's, analista de sistemas nas horas vagas...
+
+hero_img: posts/chip.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: richardnixon@posteo.org # email for form submission
+
+twitter_username: richardnixonafj # replace with your_twitter_username or comment to remove link from footer
+github_username:  richardnixonafj # replace with your_github_username or comment to remove link from footer
+
+disqus:
+  shortname: richardnixon-dev
+
+google_analytics: UA-146859357-1
+google_tag_manager: UA-146859357-1 
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+# permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
