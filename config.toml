@@ -1,7 +1,7 @@
 baseURL = "richardnixonafj.github.io"
 languageCode = "en-us"
 title = "root@president:~# | Richard Nixon"
-#theme = "ezhil"
+theme = "ezhil"
 publishDir = "docs"
 
 copyright = "© Copyright notice"
