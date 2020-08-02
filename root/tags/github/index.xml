@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on root@president:~# | Richard Nixon</title>
-    <link>richardnixonafj.github.io/tags/github/</link>
+    <link>https://richardnixon.dev/tags/github/</link>
     <description>Recent content in Github on root@president:~# | Richard Nixon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Sun, 26 Jul 2020 01:38:00 -0500</lastBuildDate>
     
-	<atom:link href="richardnixonafj.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://richardnixon.dev/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Github Arctic Code Vault Contributor</title>
-      <link>richardnixonafj.github.io/posts/arctic_code_vault_contributor/</link>
+      <link>https://richardnixon.dev/posts/arctic_code_vault_contributor/</link>
       <pubDate>Sun, 26 Jul 2020 01:38:00 -0500</pubDate>
       
-      <guid>richardnixonafj.github.io/posts/arctic_code_vault_contributor/</guid>
+      <guid>https://richardnixon.dev/posts/arctic_code_vault_contributor/</guid>
       <description>Provavelmente você pode ter recebido um novo highlight no GitHub chamado Arctic Code Vault Contributor com uma notificação como abaixo.   Notificação do Github.</description>
     </item>
     
