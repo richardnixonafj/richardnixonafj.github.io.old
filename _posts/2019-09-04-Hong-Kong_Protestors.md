@@ -59,9 +59,9 @@ Vimos mais de **60.000** instalações de aplicativos nos últimos sete dias, a 
 **Rios**: sempre que há um furacão ou terremoto no mundo, existem picos nos downloads de aplicativos. É importante dizer que nossa tecnologia principal também está disponível para os desenvolvedores, para que eles possam integrá-la em seus próprios aplicativos e fazê-los funcionar offline. O licenciamos com base na quantidade de usuários off-line e atualmente estamos trabalhando para que um dia possamos usar aplicativos como WeChat, Tinder, Uber e Whatsapp sem Internet. 
 
 
+---
 
-
-##### A minha pitada de palpite...
+### A minha pitada de palpite...
 
 O recurso de rede mesh (ou malha), não é algo novo, na guerra do golfo os nós eram os veículos de combate que se comunicavam e permitiam que informações trafegassem através de longas distâncias. O proprio roteador aí da sua casa tem o modo [ad-hoc](https://pt.wikipedia.org/wiki/Redes_ad_hoc), que permite criar redes descentralizadas.
 

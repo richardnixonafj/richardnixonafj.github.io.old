@@ -103,7 +103,7 @@ Para identificar os contribuidores dos repositórios, eles receberam o selo do A
 
 &nbsp;
 
-<center><img src="https://raw.githubusercontent.com/richardnixonafj/richardnixonafj.github.io/master/assets/img/posts/my_git.png" alt="Imagem perfil github com seta indicando o Arctic Code Vault Contributor"/></center>
+<center><img src="https://raw.githubusercontent.com/richardnixonafj/richardnixonafj.github.io/master/assets/posts/my_git.png" alt="Imagem perfil github com seta indicando o Arctic Code Vault Contributor"/></center>
 
 &nbsp;
 
